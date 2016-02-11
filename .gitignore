@@ -1,6 +1,6 @@
 .idea
 *.DS_Store
 *.iml
-/target
+/dist
 /node_modules
-/bower_components
+/client/bower_components
