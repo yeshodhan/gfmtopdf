@@ -1,0 +1,31 @@
+{
+  "name": "gfmtopdf",
+  "version": "1.0.0",
+  "description": "Github Flavored Markdown to PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeshodhan/gfmtopdf.git"
+  },
+  "keywords": [
+    "gfm",
+    "pdf",
+    "markdown"
+  ],
+  "author": "yeshodhan.kulkarni@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeshodhan/gfmtopdf/issues"
+  },
+  "homepage": "https://github.com/yeshodhan/gfmtopdf#readme",
+  "dependencies": {
+    "markdown-pdf": "^7.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.12.0"
+  }
+}
